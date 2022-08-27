@@ -1,6 +1,8 @@
-# 37signals Policies, Terms, and Legal Stuff
+# Engine Awesome Policies, Terms, and Legal Stuff
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
+
+This repository is for reference. Our policies are published at engineawesome.com
 
 * [Terms of Service](terms/index.md)
 * [Privacy policy](privacy/index.md)
