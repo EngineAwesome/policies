@@ -1,27 +1,25 @@
 ---
 title: Terms of Service
-description: All the terms that you agree to when you sign up for a 37signals product.
+description: All the terms that you agree to when you sign up for Engine Awesome product.
 ---
 
 # Terms of Service
 
-*__Note: We have changed our company name (back) to [37signals LLC](https://world.hey.com/jason/37signals-hello-again-117eae60).__*
+*Last updated: August 27, 2022*
 
-*Last updated: July 18, 2022*
+Thank you so much for using Engine Awesome! Here are some Terms os Service our lawyers say we need.
 
-From everyone at 37signals, thank you for using our products! We build them to help you do your best work. There are millions of people using 37signals products every day. Because we don’t know every one of our customers personally, we have to put in place some Terms of Service to help keep the ship afloat.
+When we say “Company”, “we”, “our”, or “us” in this document, we are referring to Engine Awesome LLC.
 
-When we say “Company”, “we”, “our”, or “us” in this document, we are referring to 37signals LLC. We spun off Highrise HQ, LLC in the past, but it has since rejoined 37signals LLC.
+When we say “Services”, we mean any product created and maintained by Engine Awesome LLC, whether delivered within a web browser, desktop application, mobile application, or another format.
 
-When we say “Services”, we mean any product created and maintained by 37signals LLC. That includes Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard, whether delivered within a web browser, desktop application, mobile application, or another format.
+When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services.
 
-When we say “You” or “your”, we are referring to the people or organizations that own an account with one or more of our Services. We have specific ownership policies for our products: [Basecamp 3](https://basecamp.com/about/policies/ownership-bc3), [Basecamp 2](https://2.basecamp-help.com/article/411-account-ownership), [Basecamp Classic](https://classic.basecamp-help.com/article/526-account-ownership), [HEY for Domains](https://hey.com/policies/ownership-hey/), [Highrise](https://support.highrise-help.com/article/305-account-ownership), [Campfire](https://support.campfire-help.com/article/651-who-owns-a-campfire-account) and [Backpack](https://support.backpack-help.com/article/661-account-ownership).
-
-We may update these Terms of Service in the future. You can track all changes made since mid-2018 [on GitHub](https://github.com/basecamp/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
+We may update these Terms of Service in the future. You can track all changes made since mid-2018 [on GitHub](https://github.com/EngineAwesome/policies/commits/master). Typically these changes have been to clarify some of these terms by linking to an expanded related policy. Whenever we make a significant change to our policies, we will refresh the date at the top of this page and take any other appropriate steps to notify account holders.
 
 When you use our Services, now or in the future, you are agreeing to the latest Terms of Service. That’s true for any of our existing and future products and all features that we add to our Services over time. There may be times where we do not exercise or enforce any right or provision of the Terms of Service; in doing so, we are not waiving that right or provision. **These terms do contain a limitation of our liability.**
 
-If you violate any of the terms, we may terminate your account. That’s a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://basecamp.com/about/team), [how we work](https://basecamp.com/handbook), and keeping an open door to [your feedback]({{ site.email_support }}).
+If you violate any of the terms, we may terminate your account. That’s a broad statement and it means you need to place a lot of trust in us. We do our best to deserve that trust by being open about [who we are](https://engineawesome.com/about/), and keeping an open door to [your feedback](https://engineawesome.com/support/).
 
 ## Account Terms
 
