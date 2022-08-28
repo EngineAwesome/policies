@@ -23,7 +23,7 @@ If you violate any of the terms, we may terminate your account. That’s a broad
 
 ## Account Terms
 
-1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We recommend users set up [two-factor authentication](https://m.signalvnoise.com/basecamp-no-longer-requires-google-for-two-factor-authentication/) for added security. In some of our Services, we may require it.
+1. You are responsible for maintaining the security of your account and password. The Company cannot and will not be liable for any loss or damage from your failure to comply with this security obligation. We recommend users set up two-factor authentication using <a href="https://support.google.com/accounts/answer/1066447">Google Authenticator</a> or <a href="https://authy.com">Authy</a>. Sometimes we may require it.
 2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](../abuse/index.md).
 3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account.
 4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
