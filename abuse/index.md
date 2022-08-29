@@ -32,6 +32,6 @@ For all other cases, please let us know by emailing [report@engineawesome.com](m
 
 Please share as much as you are comfortable with about the account, the content or behavior you are reporting, and how you found it. Sending us a URL or screenshots is super helpful. If you need a secure file transfer, let us know and we will send you a link. We will not disclose your identity to anyone associated with the reported account. For copyright cases, we've outlined extra instructions on [how to notify us about infringement claims](../copyright/index.md).
 
-Someone on our team will respond within two business days to let you know we’ve begun investigating. We have published details on [how we investigate use restriction reports](how-we-handle/index.md). We will also let you know the outcome of our investigation (unless you ask us not to, or we are not allowed to under law).
+Someone on our team will respond within two business days to let you know we’ve begun investigating. We have published details on [how we investigate use restriction reports](https://engineawesome.com/about/policies/abuse/how-we-handle/). We will also let you know the outcome of our investigation (unless you ask us not to, or we are not allowed to under law).
 
 **This policy and process applies to any product created and owned by Engine Awesome, LLC.**
