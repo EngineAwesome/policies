@@ -2,9 +2,9 @@
 title: 'How to manage the Engine Awesome account of someone who is incapacitated or has died'
 ---
 
-Last updated: August 27, 2022
-
 # How to manage the Engine Awesome account of someone who is incapacitated or has died
+
+Last updated: August 27, 2022
 
 First, we are so sorry. Managing administrative aspects is often the last thing you may want to do under these circumstances. We’ve tried to set up a process that makes managing your loved one’s Engine Awesome account as smooth as possible while also honoring the privacy and security obligations we have to our customers.
 
