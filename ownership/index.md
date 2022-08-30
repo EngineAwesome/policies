@@ -3,8 +3,6 @@ title: 'Engine Awesome Account Ownership'
 description: 'Everything you need to know about Engine Awesome account ownership.'
 ---
 
-TODO
-
 # Who owns a Engine Awesome account?
 
 Engine Awesome accounts are owned by individuals, not by organizations. When you sign up and create an account at Engine Awesome, you are the owner of that account and all the data in it. Our legal responsibility is to the account owner(s), so we won’t let other people take over your account without your permission.
@@ -13,9 +11,8 @@ Engine Awesome accounts are owned by individuals, not by organizations. When you
 
 Account owners can:
 
-- **Access and export all data in an account**: account owners can add themselves to any Team and view everything in the account.
-- **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; and cancelling an account.
-- **Designate other account administrators**: Engine Awesome accounts can have one owner, but multiple administrators. We recommend designating other administrators you trust, so that updates can be made to the account when you're not available.
+- **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; creating new teams; and cancelling an account.
+- **Designate other account administrators**: Engine Awesome accounts can have [multiple owners](https://engineawesome.com/about/policies/ownership/). We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
 
 ## What happens when none of the current account owners are available?
 
@@ -31,6 +28,6 @@ When none of the above is an option, a court order is required to add another ow
 
 ## What if I have another question about ownership?
 
-Basecamp may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting Basecamp [support][support].
+Engine Awesome may update this policy once in a blue moon — we’ll notify you about significant changes by emailing the account owner or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting Engine Awesome [support](https://engineawesome.com/support/).
 
-Questions about this account ownership policy? Please get in touch with our [support team][support] and we’ll be happy to answer them!
+Questions about this account ownership policy? Please get in touch with our [support team](https://engineawesome.com/support/) and we’ll be happy to answer them!
