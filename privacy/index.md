@@ -5,11 +5,11 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: [July 18, 2022](https://updates.basecamp.com/post/updates-to-our-privacy-policy-for-2022)*
+*Last updated: September 4, 2022)*
 
 The privacy of your data—and it is your data, not ours!—is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by 37signals LLC including Basecamp (all versions), HEY, Highrise, Campfire, Backpack, Ta-da List, and Writeboard. If you are applying for a job at 37signals LLC, please review our [Recruitment Privacy policy](recruitment/index.md).
+This policy applies to all products built and maintained by Engine Awesome LLC. If you are applying for a job at Engine Awesome LLC, please review our [Recruitment Privacy policy TODO](recruitment/index.md).
 
 ## What we collect and why
 
@@ -17,17 +17,17 @@ Our guiding principle is to collect only what we need. Here’s what that means 
 
 ### Identity & access
 
-When you sign up for a 37signals product, we ask for identifying information such as your name, email address, and maybe a company name. That’s so you can personalize your new account, and we can send you product updates and other essential information. We may also send you optional surveys from time to time to help us understand how you use our products and to make improvements. With your consent, we will send you our newsletter and other updates. We sometimes also give you the option to add a profile picture that displays in our products.
+When you sign up for a Engine Awesome product, we ask for identifying information such as your name, email address, and maybe a company name. That’s so you can personalize your new account, and we can send you product updates and other essential information. We may also send you optional surveys from time to time to help us understand how you use our products and to make improvements. With your consent, we will send you our newsletter and other updates. We sometimes also give you the option to add a profile picture that displays in our products.
 
 We’ll never sell your personal information to third parties, and we won’t use your name or company in marketing statements without your permission either.
 
 ### Billing information
 
-If you sign up for a paid 37signals product, you will be asked to provide your payment information and billing address. Credit card information is submitted directly to our payment processor and doesn’t hit 37signals servers. We store a record of the payment transaction, including the last 4 digits of the credit card number, for purposes of account history, invoicing, and billing support. We store your billing address so we can charge you for service, calculate any sales tax due, send you invoices, and detect fraudulent credit card transactions. We occasionally use aggregate billing information to guide our marketing efforts.
+If you sign up for a paid Engine Awesome product, you will be asked to provide your payment information and billing address. Credit card information is submitted directly to our payment processor and doesn’t hit Engine Awesome servers. We store a record of the payment transaction, including the last 4 digits of the credit card number, for purposes of account history, invoicing, and billing support. We store your billing address so we can charge you for service, calculate any sales tax due, send you invoices, and detect fraudulent credit card transactions. We occasionally use aggregate billing information to guide our marketing efforts.
 
 ### Product interactions
 
-We store on our servers the content that you upload or receive or maintain in your 37signals product accounts. This is so you can use our products as intended, for example, to create projects in Basecamp or to receive email in HEY. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days. 
+We store on our servers the content that you upload or receive or maintain in your Engine Awesome product accounts. This is so you can use our products as intended, for example, to create contacts. We keep this content as long as your account is active. If you delete your account, we’ll delete the content within 60 days. 
 
 ### Geolocation data
 
@@ -39,11 +39,11 @@ We collect information about your browsing activity for analytics and statistica
 
 ### Anti-bot assessments
 
-We use third-party [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our applications to mitigate brute force logins and in HEY as a means of spam protection. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your 37signals accounts and when you fill in certain forms in HEY, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. We retain these data via our subprocessor indefinitely for use in spam mitigation.
+We use third-party [CAPTCHA](https://en.wikipedia.org/wiki/CAPTCHA) services across our applications to mitigate brute force logins. We have a legitimate interest in protecting our apps and the broader Internet community from credential stuffing attacks and spam. When you log into your Engine Awesome accounts, the CAPTCHA service evaluates various information (e.g., IP address, how long the visitor has been on the app, mouse movements) to try to detect if the activity is from an automated program instead of a human. We retain these data via our subprocessor indefinitely for use in spam mitigation.
 
 ### Advertising and Cookies
 
-37signals runs contextual ads on various third-party platforms such as Google, Reddit, and LinkedIn. Users who click on one of our ads will be sent to the Basecamp marketing site. Where permissible under law, we may load an ad-company script on their browsers that sets a third-party cookie and sends information to the ad network to enable evaluation of the effectiveness of our ads, e.g., which ad they clicked and which keyword triggered the ad, and whether they performed certain actions such as clicking a button or submitting a form.
+Engine Awesome may run contextual ads on various third-party platforms such as Google, Reddit, LinkedIn and others. Users who click on one of our ads will be sent to the Engine Awesome marketing site. Where permissible under law, we may load an ad-company script on their browsers that sets a third-party cookie and sends information to the ad network to enable evaluation of the effectiveness of our ads, e.g., which ad they clicked and which keyword triggered the ad, and whether they performed certain actions such as clicking a button or submitting a form.
 
 We also use persistent first-party cookies and some third-party cookies to store certain preferences, make it easier for you to use our applications, and perform A/B testing as well as support some analytics. 
 
@@ -51,7 +51,7 @@ A cookie is a piece of text stored by your browser. It may help remember login i
 
 ### Voluntary correspondence
 
-When you email 37signals with a question or to ask for help, we keep that correspondence, including your email address, so that we have a history of past correspondence to reference if you reach out in the future.
+When you email Engine Awesome with a question or to ask for help, we keep that correspondence, including your email address, so that we have a history of past correspondence to reference if you reach out in the future.
 
 We also store information you may volunteer, for example, written responses to surveys. If you agree to a customer interview, we may ask for your permission to record the conversation for future reference or use. We will only do so with your express consent.
 
