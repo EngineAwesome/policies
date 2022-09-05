@@ -19,6 +19,9 @@ Bad refund policies are infuriating. You feel like the company is just trying to
 * If you upgraded your account a few months ago to a higher plan and kept using it in general but you didn’t end up using the extra features, we’d consider applying a prorated credit towards future months.
 * If we had extended downtime (multiple hours in a day, or multiple days in a month) or you emailed customer service and it took multiple days to get back to you, we’d issue a partial credit to your account.
 
+## Monthly vs Annual subscriptions
+We may offer annual subscriptions for some of our products. Our annual subscriptions are less money then if you paid monthly over the same time frame. For example, we may charge $10 a month for a product which would be $120 a year. However, if you pay annually it would only cost $96, saving you 20%. In order to offer you this savings, we can not prorate refunds. So if you buy the annual plan and cancel in the eighth month, we will not refund you for the unused four months.
+
 ## Get in touch
 
 At the end of the day, nearly everything on the edges comes down to a case-by-case basis. [Send us a note](https://engineawesome.com/support/), tell us what's up, and we'll work with you to make sure you’re happy.
