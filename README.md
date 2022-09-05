@@ -2,7 +2,7 @@
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
-This repository is for reference only. Our policies are published at [engineawesome.com/about/policies/](https://engineawesome.com/about/policies/)
+**This repository is for reference only. Our policies are published at [engineawesome.com/about/policies/](https://engineawesome.com/about/policies/)**
 
 ## Public Contributions Welcome
 
