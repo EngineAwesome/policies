@@ -11,7 +11,7 @@ Keeping customer data safe and secure is a huge responsibility and a top priorit
 
 ## Reporting security problems
 
-**Report security vulnerabilities** please email our [Timothy directly](emailto:me@timothybjacobs.com). If you feel it necessary, you can send your email via PGP to keep your message safe and please provide us with a secure way to respond. We’ll respond as soon as we can. Please follow up or [ping us on Twitter](https://twitter.com/engineawesome) if you don’t hear back.
+**Report security vulnerabilities** please email our [Timothy directly](mailto:me@timothybjacobs.com). If you feel it necessary, you can send your email via PGP to keep your message safe and please provide us with a secure way to respond. We’ll respond as soon as we can. Please follow up or [ping us on Twitter](https://twitter.com/engineawesome) if you don’t hear back.
 
 **For requests that aren’t urgent or sensitive**: submit a [support request](https://engineawesome.com/support/).
 
