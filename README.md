@@ -2,13 +2,7 @@
 
 The rough print and the fine print. We try to make all our policies as clear, fair, and readable as possible.
 
-This repository is for reference. Our policies are published at engineawesome.com
-
-* [Policies, Terms, and Legal Stuff](https://engineawesome.com/about/policies/)
-
-## A Note About the Email Addresses
-
-If you try to click on any of the Support links in this repository, you'll get a 404 page. Don't despair! You can always reach us on our [Support Form](https://engineawesome.com/support/).
+This repository is for reference. Our policies are published at [engineawesome.com/about/policies/](https://engineawesome.com/about/policies/)
 
 ## Public Contributions Welcome
 
