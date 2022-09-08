@@ -17,4 +17,4 @@ For the following processors, we have established GDPR-compliant data processing
 As a company, we host a blog, and run occasional events virtually. If you voluntarily engage with us through those media, your personal information may also be collected by the following processors, also all located in the US:
 
 * [Twitter](https://gdpr.twitter.com/). Social media platform.
-* [Zoom] (https://explore.zoom.us/en/trust/legal-compliance/) Video meetings and webinars.
+* [Zoom](https://explore.zoom.us/en/trust/legal-compliance/) Video meetings and webinars.
