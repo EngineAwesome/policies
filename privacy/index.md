@@ -5,11 +5,11 @@ description: The privacy of your data — and it is your data, not ours! — is 
 
 # Privacy policy
 
-*Last updated: September 4, 2022)*
+*Last updated: September 20, 2022)*
 
 The privacy of your data—and it is your data, not ours!—is a big deal to us. In this policy, we lay out: what data we collect and why; how your data is handled; and your rights with respect to your data. We promise we never sell your data: never have, never will.
 
-This policy applies to all products built and maintained by Engine Awesome LLC. If you are applying for a job at Engine Awesome LLC, please review our [Recruitment Privacy policy TODO](recruitment/index.md).
+This policy applies to all products built and maintained by Engine Awesome LLC.
 
 ## What we collect and why
 
@@ -51,7 +51,7 @@ A cookie is a piece of text stored by your browser. It may help remember login i
 
 ### Voluntary correspondence
 
-When you email Engine Awesome with a question or to ask for help, we keep that correspondence, including your email address, so that we have a history of past correspondence to reference if you reach out in the future.
+When you contact Engine Awesome with a question or to ask for help, we keep that correspondence, including your email address, so that we have a history of past correspondence to reference if you reach out in the future.
 
 We also store information you may volunteer, for example, written responses to surveys. If you agree to a customer interview, we may ask for your permission to record the conversation for future reference or use. We will only do so with your express consent.
 
@@ -61,7 +61,7 @@ We may offer optional desktop and mobile apps for some of our products. Because 
 
 ## When we access or share your information
 
-**To provide products or services you’ve requested**.TODO We use some third-party subprocessors to help run our applications and provide the Services to you. You can view the third-party subprocessors we use for each of our products: [Basecamp](basecamp-subprocessors/index.md), [HEY](hey-subprocessors/index.md), [Highrise](highrise-subprocessors/index.md), [Campfire](campfire-subprocessors/index.md), [Backpack](backpack-subprocessors/index.md). We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](company-processors/index.md).
+**To provide products or services you’ve requested**.TODO We use some [third-party subprocessors](https://engineawesome.com/about/policies/privacy-policy/subprocessors/) to help run our applications and provide the Services to you. We also use third-party processors for other business functions such as managing newsletter subscriptions, sending customer surveys, and providing our company storefront. You can view the list at [Company processors](https://engineawesome.com/about/policies/privacy-policy/company-processors/).
 
 We may share your information at your direction if you integrate a third-party service into your use of our products.
 
@@ -112,7 +112,7 @@ Most data is not encrypted while they live in our database (since they need to b
 
 ## What happens when you delete content in your product accounts
 
-In many of our applications, we give you the option to trash content. Anything you trash in your product accounts while they are active will be kept in an accessible trash can for about 25 days (it varies a little by product). After that time, the trashed content cannot be accessed via the application and we are not able to retrieve it for you. The trashed content may remain on our active servers for another 30 days, and copies of the content may be held in backups of our application databases for up to another 30 days after that. Altogether, any content trashed in your product accounts should be purged from all of our systems and logs within 60 days.
+In many of our applications, we give you the option to trash content. Anything you trash in your product accounts while they are active will be kept for 30 days. After that time, the trashed content cannot be accessed via the application and we are not able to retrieve it for you. The trashed content may remain on our active servers for another 30 days, and copies of the content may be held in backups of our application databases for up to another 30 days after that. Altogether, any content trashed in your product accounts should be purged from all of our systems and logs within 90 days.
 
 If you choose to cancel your account, your content will become immediately inaccessible and should be purged from our systems in full within 60 days. This applies both for cases when an account owner directly cancels and for auto-cancelled accounts. Please refer to our [Cancellation policy](https://engineawesome.com/about/policies/cancellations/) for more details.
 
@@ -122,11 +122,9 @@ Our products and other web properties are operated in the United States. If you 
 
 ## When transferring personal data from the EU
 
-The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. TODO Accordingly, 37signals has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection. 37signals’ DPA is available at [https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf](https://basecamp.com/about/policies/privacy/regulations/basecamp-gdpr-dpa.pdf).
+The European Data Protection Board (EDPB) has issued guidance that personal data transferred out of the EU must be treated with the same level of protection that is granted under EU privacy law. UK law provides similar safeguards for UK user data that is transferred out of the UK. Accordingly, Engine Awesome has adopted a data processing addendum with Standard Contractual Clauses to help ensure this protection. Engine Awesome’s DPA is available at [https://engineawesome.com/wp-content/uploads/2022/09/Engine_Awesome_Data_Processing_Addendum_v202209.pdf](https://engineawesome.com/wp-content/uploads/2022/09/Engine_Awesome_Data_Processing_Addendum_v202209.pdf).
 
-TODO Customers who prefer to have an executed copy of our Data Processing Addendum may [sign a copy online](https://app.hellosign.com/s/c0908a3d). Regardless of whether it is executed, we protect and secure customer data to the standards set out in the addendum.
-
-There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with 37signals LLC operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
+There are also a few ad hoc cases where EU personal data may be transferred to the U.S. in connection with Engine Awesome LLC operations, for instance, if an EU user signs up for our newsletter or participates in one of our surveys or buys swag from our company online store. Such transfers are only occasional and data is transferred under the [Article 49(1)(b) derogation](https://gdpr-info.eu/art-49-gdpr/) under GDPR and the UK version of GDPR.
 
 ## Changes & questions
 
