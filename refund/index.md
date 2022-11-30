@@ -23,7 +23,7 @@ Bad refund policies are infuriating. You feel like the company is just trying to
 We may offer annual subscriptions for some of our products. Our annual subscriptions are less money then if you paid monthly over the same time frame. For example, we may charge $10 a month for a product which would be $120 a year. However, if you pay annually it would only cost $96, saving you 20%. In order to offer you this savings, we can not prorate refunds. So if you buy the annual plan and cancel in the eighth month, we will not refund you for the unused four months.
 
 ## When can I expect my refund?
-After we intiate the refund, you should see the funds in your bank account within 5-10 business days, [depending on your bank's policies](https://www.thebalancemoney.com/how-does-a-credit-card-refund-work-4174421).
+After we initiate the refund, you should see the funds in your bank account within 5-10 business days, [depending on your bank's policies](https://www.thebalancemoney.com/how-does-a-credit-card-refund-work-4174421).
 
 ## Get in touch
 
