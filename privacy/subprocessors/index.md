@@ -9,6 +9,7 @@ We use third party subprocessors, such as cloud computing providers and customer
 
 The following is a list of personal data subprocessors we use. These subprocessors are all located in the United States:
 
+* A[Cloudflare](https://www.cloudflare.com/gdpr/introduction/). Cloud services provider.
 * [Datadog](https://www.datadoghq.com/legal/privacy/). Infrastructure and application monitoring.
 * [Digital Ocean](https://www.digitalocean.com/legal). Cloud services provider.
 * [Email Octopus](https://emailoctopus.com/legal/gdpr). Transactional email service.
