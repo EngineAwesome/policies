@@ -1,6 +1,6 @@
 ---
-title: Basecamp Restricted Use Policy
-description: It is not okay to use Basecamp products for these restricted purposes.
+title: Restricted Use Policy
+description: It is not okay to use our products for these restricted purposes.
 ---
 
 # Use Restrictions
