@@ -10,7 +10,7 @@ description: In order to maintain a high level of performance and quality for al
 Hello there, and welcome to Engine Awesome! We're all about making your experience as enjoyable and hassle-free as possible, which is why we often use the term "unlimited" when describing our services. However, in the real world, we know that nothing is truly unlimited. It's a bit like an all-you-can-eat buffet - sure, the food seems endless, but there's always a limit to how much one can actually consume. Similarly, in order to maintain a high level of performance and quality for all our users, we have to set some boundaries. That's where our Reasonable Use Policy comes into play.
 
 ## We're flexible
-Now, we understand that things change, and sometimes you might need a little extra wiggle room. Our limits aren't set in stone – we're all about flexibility and finding solutions that work for you. If you find yourself needing more resources, just reach out to our friendly support team. We'll be more than happy to discuss your requirements and work together to find an accommodation that suits your needs.
+Now, we understand that things change, and sometimes you might need a little extra wiggle room. Our limits aren't set in stone – we're all about flexibility and finding solutions that work for you. If you find yourself needing more resources, just reach out to our friendly [support team](https://engineawesome.com/support/). We'll be more than happy to discuss your requirements and work together to find an accommodation that suits your needs.
 
 ## 1. Users: Sharing is Caring, But Not Unlimited
 
