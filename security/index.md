@@ -9,7 +9,7 @@ description: Keeping customer data safe and secure is a huge responsibility and 
 
 All data are written to disks instantly and backed up daily. Files that our customers upload are stored on servers that use modern techniques to remove bottlenecks and points of failure.
 
-## Your data are sent using HTTPS.
+## Your data is sent using HTTPS.
 
 Whenever your data are in transit between you and us, everything is encrypted, and sent using HTTPS.
 
