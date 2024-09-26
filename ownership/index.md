@@ -12,7 +12,7 @@ Engine Awesome accounts are owned by individuals, not by organizations. When you
 Account owners can:
 
 - **Manage all aspects of the account's subscription:** including updating billing information; adding more users and account administrators; creating new teams; and cancelling an account.
-- **Designate other account administrators**: Engine Awesome accounts can have [multiple owners](https://engineawesome.com/about/policies/ownership/). We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
+- **Designate other account administrators**: Engine Awesome accounts can have [multiple owners](https://docs.engineawesome.com/settings/team/). We recommend designating other owners you trust, so that updates can be made to the account when you're not available.
 
 ## What happens when none of the current account owners are available?
 
