@@ -24,6 +24,24 @@ Many teams use Engine Awesome products*. We are proud to give them a better way 
 
 While our use restrictions are comprehensive, they can’t be exhaustive — it’s possible an offense could defy categorization, present for the first time, or illuminate a moral quandary we hadn’t yet considered. That said, we hope the overarching spirit is clear: Engine Awesome is not to be harnessed for harm, whether mental, physical, personal or civic. Different points of view — philosophical, religious, and political — are welcome, but ideologies like white nationalism, or hate-fueled movements anchored by oppression, violence, abuse, extermination, or domination of one group over another, will not be accepted here.
 
+**Sensitive Information Prohibited**
+
+Engine Awesome is not a secure document vault. You may not upload, store, or process documents or media that contain highly sensitive personal information. The platform is not designed to handle government-issued identification, financial documents, or similar records. Prohibited content includes, but is not limited to:
+
+- Driver’s licenses
+- Passports
+- Birth certificates
+- Social Security cards or numbers
+- Checks, bank statements, or other financial documents
+- Tax forms or taxpayer identification numbers
+- Credit card or debit card numbers
+- Medical or health-related records
+- Any document containing government ID numbers, account numbers, or similar identifiers
+
+If your organization requires identity verification or handling of sensitive personal documents, you must use a secure, compliant system designed for that purpose. Uploading this type of content through standard Engine Awesome features is not permitted and may result in removal of the content or suspension of your account.
+
+You are responsible for ensuring that all uploaded content complies with these restrictions and with applicable laws.
+
 ## How to report abuse
 
 For cases of suspected malware, spyware, phishing, spamming, and cybersquatting, please alert us at [abuse@engineawesome.com](mailto:abuse@engineawesome.com).
