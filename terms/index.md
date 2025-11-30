@@ -5,7 +5,7 @@ description: All the terms that you agree to when you sign up for Engine Awesome
 
 # Terms of Service
 
-*Last updated: September 20, 2022*
+*Last updated: November 30, 2025*
 
 Thank you so much for using Engine Awesome! Here are some Terms of Service our lawyers say we need.
 
@@ -27,6 +27,25 @@ If you violate any of the terms, we may terminate your account. That’s a broad
 2. You may not use the Services for any purpose outlined in our [Use Restrictions policy](https://engineawesome.com/about/policies/abuse/).
 3. You are responsible for all content posted and activity that occurs under your account. That includes content posted by others who either: (a) have access to your login credentials; or (b) have their own logins under your account.
 4. You must be a human. Accounts registered by “bots” or other automated methods are not permitted.
+
+
+## Sensitive Information Prohibited
+
+**Engine Awesome is not a secure document vault.** You may not upload, store, or process documents or media that contain highly sensitive personal information. The platform is not designed to handle government-issued identification, financial documents, or similar records. Prohibited content includes, but is not limited to:
+
+- Driver’s licenses
+- Passports
+- Birth certificates
+- Social Security cards or numbers
+- Checks, bank statements, or other financial documents
+- Tax forms or taxpayer identification numbers
+- Credit card or debit card numbers
+- Medical or health-related records
+- Any document containing government ID numbers, account numbers, or similar identifiers
+
+If your organization requires identity verification or handling of sensitive personal documents, you must use a secure, compliant system designed for that purpose. Uploading this type of content through standard Engine Awesome features is not permitted and may result in removal of the content or suspension of your account.
+
+You are responsible for ensuring that all uploaded content complies with these restrictions and with applicable laws.
 
 ## Payment, Refunds, and Plan Changes
 
