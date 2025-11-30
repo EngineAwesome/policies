@@ -26,7 +26,7 @@ While our use restrictions are comprehensive, they can’t be exhaustive — it�
 
 ## Sensitive Information Prohibited
 
-Engine Awesome is not a secure document vault. You may not upload, store, or process documents or media that contain highly sensitive personal information. The platform is not designed to handle government-issued identification, financial documents, or similar records. Prohibited content includes, but is not limited to:
+**Engine Awesome is not a secure document vault.** You may not upload, store, or process documents or media that contain highly sensitive personal information. The platform is not designed to handle government-issued identification, financial documents, or similar records. Prohibited content includes, but is not limited to:
 
 - Driver’s licenses
 - Passports
