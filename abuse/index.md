@@ -24,7 +24,7 @@ Many teams use Engine Awesome products*. We are proud to give them a better way 
 
 While our use restrictions are comprehensive, they can’t be exhaustive — it’s possible an offense could defy categorization, present for the first time, or illuminate a moral quandary we hadn’t yet considered. That said, we hope the overarching spirit is clear: Engine Awesome is not to be harnessed for harm, whether mental, physical, personal or civic. Different points of view — philosophical, religious, and political — are welcome, but ideologies like white nationalism, or hate-fueled movements anchored by oppression, violence, abuse, extermination, or domination of one group over another, will not be accepted here.
 
-**Sensitive Information Prohibited**
+## Sensitive Information Prohibited
 
 Engine Awesome is not a secure document vault. You may not upload, store, or process documents or media that contain highly sensitive personal information. The platform is not designed to handle government-issued identification, financial documents, or similar records. Prohibited content includes, but is not limited to:
 
