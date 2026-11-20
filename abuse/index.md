@@ -1,7 +1,7 @@
 ---
 title: Restricted Use Policy
 description: It is not okay to use our products for these restricted purposes.
-lastUpdated: 2025-11-30
+lastUpdated: 2026-11-20
 icon: ban
 order: 10
 meta_description: "The purposes you can't use Engine Awesome for, why sensitive information is prohibited, and how to report abuse of our products."
@@ -9,7 +9,7 @@ meta_description: "The purposes you can't use Engine Awesome for, why sensitive 
 
 # Use Restrictions
 
-*Last updated: November 30, 2025*
+*Last updated: November 20, 2026*
 
 Many teams use Engine Awesome products*. We are proud to give them a better way to work. We also recognize that however good the maker's intentions are, technology can amplify the ability to cause great harm. That's why we've established this policy. We feel an ethical obligation to counter such harm: both in terms of dealing with instances where Engine Awesome is used (and abused) to further such harm and to state unequivocally that the products we make at Engine Awesome are not safe havens for people who wish to commit such harm. If you have an account with any of our products, you can't use them for any of the restricted purposes listed below. If we find out you are, [we will take action](/about/policies/how-we-handle-abusive-usage/).
 

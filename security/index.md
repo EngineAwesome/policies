@@ -1,7 +1,7 @@
 ---
 title: Security overview
 description: Keeping customer data safe and secure is a huge responsibility and a top priority for us. Here's how we make it happen.
-lastUpdated: 2024-01-15
+lastUpdated: 2026-11-20
 icon: lock
 order: 8
 ---
